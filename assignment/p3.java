@@ -1,5 +1,5 @@
 import java.util.*;
-public class area_perimeter {
+public class p3 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.print("Enter the value of length and width = ");

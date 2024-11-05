@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class sum_array {
+public class p6 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.print("Enter the size of the array : ");

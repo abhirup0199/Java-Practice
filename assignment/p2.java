@@ -1,5 +1,5 @@
 import java.util.*;
-public class temperature {
+public class p2 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.print("Enter the temperature value in Celsius = ");

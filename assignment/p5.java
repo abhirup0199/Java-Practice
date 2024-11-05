@@ -1,13 +1,13 @@
 import java.util.*;
-public class largest {
+public class p5 {
     public static void main(String[] args) {
         int arr[] = new int[4];
         Scanner obj = new Scanner(System.in);
 
-        System.out.println("INPUT = ");
-
-        for(int i = 0; i < 4; i++)
-        arr[i] = obj.nextInt();
+        arr[0] = Integer.parseInt(args[0]);
+        arr[1] = Integer.parseInt(args[1]);
+        arr[2] = Integer.parseInt(args[2]);
+        arr[3] = Integer.parseInt(args[3]);
         
         int max = arr[0];
 
